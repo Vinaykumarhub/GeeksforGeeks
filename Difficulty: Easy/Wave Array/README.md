@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?page=2&difficulty=Easy&status=solved&sortBy=submissions">Wave Array</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 12pt;">Given a <strong>sorted</strong> array <strong>arr[]</strong> of distinct integers. Sort the array into a wave-like array(In Place). In other words, arrange the elements into a sequence such that arr[1] &gt;= arr[2] &lt;= arr[3] &gt;= arr[4] &lt;= arr[5].....<br>If there are multiple solutions, find the lexicographically smallest one.</span></p>
+<p><span style="font-size: 12pt;"><strong>Note: </strong>The given array is sorted in ascending order, and you don't need to return anything to change the original array.</span></p>
+<p><span style="font-size: 12pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 12pt;"><strong>Input: </strong>arr[] = [1, 2, 3, 4, 5]
+<strong>Output: [</strong>2, 1, 4, 3, 5]<strong>
+Explanation: </strong>Array elements after sorting it in the waveform are 2, 1, 4, 3, 5.</span></pre>
+<pre><span style="font-size: 12pt;"><strong>Input: </strong>arr[] = [2, 4, 7, 8, 9, 10]
+<strong>Output: [</strong>4, 2, 8, 7, 10, 9]<strong>
+Explanation: </strong>Array elements after sorting it in the waveform are 4, 2, 8, 7, 10, 9.<br><br>Input: arr[] = [1]<br>Output: [1]</span></pre>
+<p><span style="font-size: 12pt;"><strong>Constraints:</strong><br>1 ≤ arr.size ≤ 10<sup>6</sup><br>0 ≤ arr[i] ≤10<sup>7</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Paytm</code>&nbsp;<code>Flipkart</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>FactSet</code>&nbsp;<code>Goldman Sachs</code>&nbsp;<code>Google</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Sorting</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
