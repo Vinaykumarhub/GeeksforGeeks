@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&status=solved&sortBy=submissions">Array Duplicates</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given an array <strong><code>arr</code></strong> of integers, find all the elements that occur more than once in the array. Return the result in ascending order. If no element repeats, return an empty array.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [2, 3, 1, 2, 3]
+<strong>Output: </strong>[2, 3] <strong>
+Explanation: </strong>2 and 3 occur more than once in the given array.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [0, 3, 1, 2] <br><strong>Output: </strong>[]<strong> <br>Explanation: </strong>There is no repeating element in the array, so the <span style="box-sizing: inherit;">output is empty.<br></span></span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [2]
+<strong>Output: </strong>[] <strong>
+Explanation: </strong>There is single element in the array. <span style="box-sizing: inherit;">Therefore output is empty.</span></span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:<br></strong>1 &lt;= arr.size() &lt;= 10<sup>6</sup></span><br><span style="font-size: 14pt;">0 &lt;= arr[i] &lt;=&nbsp;<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">10</span><sup style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">6</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Paytm</code>&nbsp;<code>Zoho</code>&nbsp;<code>Flipkart</code>&nbsp;<code>Amazon</code>&nbsp;<code>D-E-Shaw</code>&nbsp;<code>Qualcomm</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Data Structures</code>&nbsp;
